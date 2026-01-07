@@ -1,7 +1,7 @@
-# 🛡️ SecureGuard - AI-Powered Email Scam Detection
+# 🛡️ Veris - AI-Powered Email Scam Detection
 ## HopHacks MLH Hackathon Project
 
-SecureGuard is a comprehensive email security solution that combines a Chrome extension with a powerful backend API to detect phishing, scams, and malicious emails in real-time. It works seamlessly with Gmail and Outlook webmail clients.
+Veris is a comprehensive email security solution that combines a Chrome extension with a powerful backend API to detect phishing, scams, and malicious emails in real-time. It works seamlessly with Gmail and Outlook webmail clients.
 
 ## ✨ Features
 
@@ -38,7 +38,7 @@ SecureGuard is a comprehensive email security solution that combines a Chrome ex
 
    ```bash
    git clone <repository-url>
-   cd SecureGuard
+   cd Veris
    chmod +x setup.sh
    ./setup.sh
    ```
@@ -123,7 +123,7 @@ CONTENT_ANALYSIS_WEIGHT=0.25
 
 ## 🎯 Risk Scoring
 
-SecureGuard uses a sophisticated risk scoring system:
+Veris uses a sophisticated risk scoring system:
 
 - **Low Risk (0-30)**: ✅ Email appears legitimate
 - **Medium Risk (31-60)**: ⚡ Exercise caution
@@ -214,13 +214,13 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## ⚠️ Disclaimer
 
-SecureGuard is a security tool designed to assist in identifying potential email threats. It should not be considered 100% accurate and should be used in conjunction with other security measures and human judgment. Always verify suspicious emails through alternative channels when in doubt.
+Veris is a security tool designed to assist in identifying potential email threats. It should not be considered 100% accurate and should be used in conjunction with other security measures and human judgment. Always verify suspicious emails through alternative channels when in doubt.
 
 ## 🆘 Support
 
 - **Documentation**: Check the `/docs` endpoint when running the backend
 - **Issues**: Report bugs and feature requests via GitHub Issues
-- **Security**: For security vulnerabilities, please email security@secureguard.com
+- **Security**: For security vulnerabilities, please email security@Veris.com
 
 ---
 
